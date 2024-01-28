@@ -1388,3 +1388,25 @@ button:focus {
 	
 }
 
+  
+.Thumbsubdiv{
+	text-align: center;
+}
+.Thumbsubdiv img{
+	width: 50%;  
+  	height: 50%; 
+	object-fit: cover;
+	display: block;
+	margin-left: 25%;
+	
+	
+}
+.ThumbSubLink{
+	
+	display: block;
+	
+	
+
+}
+
+  
